@@ -1,0 +1,151 @@
+/* Global*/
+img{
+    width: 200px;
+}
+/* Header*/
+header section{
+    display: flex;
+    
+}
+header ul{
+    margin-left: 80%;
+    list-style: none;
+    
+}
+
+/*Main*/
+main{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(55, 100px);
+}
+
+#Kanken{
+    grid-column: 2/5;
+    grid-row: 1/3;
+    
+}
+#Swing{
+    grid-column: 1/2;
+    grid-row: 4/7;
+}
+#Hajo{
+    grid-column: 2/3;
+    grid-row: 4/7;
+}
+#Electric{
+    grid-column: 1/2;
+    grid-row: 8/11;
+}
+#Zed{
+    grid-column: 3/4;
+    grid-row: 4/7;
+}
+#Woodie{
+    grid-column: 2/3;
+    grid-row: 8/11;
+}
+#Logo{
+    grid-column: 3/4;
+    grid-row: 8/11;
+}
+#Dieter{
+    grid-column: 2/5;
+    grid-row: 13/15;
+}
+#Eye{
+    grid-column: 1/2;
+    grid-row: 16/19;
+}
+#Gather{
+    grid-column: 2/3;
+    grid-row: 16/19;
+}
+#Dipped{
+    grid-column: 3/4;
+    grid-row: 16/19;
+}
+#Sayl{
+    grid-column: 1/2;
+    grid-row: 20/23;
+}
+#Cherry{
+    grid-column: 2/3;
+    grid-row: 20/23;
+}
+#Japan{
+    grid-column: 3/4;
+    grid-row: 20/23;
+}
+#Arigato{
+    grid-column: 2/4;
+    grid-row: 25/27;
+}
+#Winston{
+    grid-column: 1/2;
+    grid-row: 28/31;
+}
+#Letter{
+    grid-column: 2/3;
+    grid-row: 28/31;
+}
+#Coffee{
+    grid-column: 3/4;
+    grid-row: 28/31;
+}
+#Beoplay{
+    grid-column: 1/2;
+    grid-row: 32/35;
+}
+#Burrill{
+    grid-column: 2/3;
+    grid-row: 32/35;
+}
+#Chair{
+    grid-column: 3/4;
+    grid-row: 32/35;
+}
+#Simplicity{
+    grid-column: 2/4;
+    grid-row: 37/39;
+}
+#Grid{
+    grid-column: 1/2 ;
+    grid-row: 40/43;
+}
+#Card{
+    grid-column: 2/3;
+    grid-row: 40/43;
+}
+#Classic{
+    grid-column: 3/4;
+    grid-row: 40/43;
+}
+#Magic{
+    grid-column: 1/2;
+    grid-row: 44/47;
+}
+#Travel{
+    grid-column: 2/3;
+    grid-row: 44/47;
+}
+#Keyboard{
+    grid-column: 3/4;
+    grid-row: 44/47;
+}
+#Bottle{
+    grid-column: 2/4;
+    grid-row:49/51;
+}
+#Geo{
+    grid-column: 1/2;
+    grid-row: 52/55;
+}
+#Womb{
+    grid-column: 2/3;
+    grid-row: 52/55;
+}
+#Water{
+    grid-column: 3/4;
+    grid-row: 52/55;
+}
