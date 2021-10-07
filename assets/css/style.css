@@ -1,10 +1,16 @@
 /* Global*/
+
 img{
-    width: 200px;
+    width: 360px;
+    height: 360px;
 }
+
+
 /* Header*/
 header section{
     display: flex;
+    justify-content: center;
+    
     
 }
 header ul{
@@ -21,25 +27,25 @@ main{
 }
 
 #Kanken{
-    grid-column: 2/5;
-    grid-row: 1/3;
+    grid-column: 4/5;
+    grid-row:38/41;
     
 }
 #Swing{
-    grid-column: 1/2;
-    grid-row: 4/7;
+    grid-column: 2/3;
+    grid-row: 3/7;
 }
 #Hajo{
-    grid-column: 2/3;
-    grid-row: 4/7;
+    grid-column: 3/5;
+    grid-row: 3/7;
 }
 #Electric{
-    grid-column: 1/2;
+    grid-column: 5/6;
     grid-row: 8/11;
 }
 #Zed{
-    grid-column: 3/4;
-    grid-row: 4/7;
+    grid-column: 5/6;
+    grid-row: 3/7;
 }
 #Woodie{
     grid-column: 2/3;
@@ -50,102 +56,102 @@ main{
     grid-row: 8/11;
 }
 #Dieter{
-    grid-column: 2/5;
-    grid-row: 13/15;
+    grid-column: 4/5;
+    grid-row: 8/11;
 }
 #Eye{
-    grid-column: 1/2;
-    grid-row: 16/19;
+    grid-column: 2/3;
+    grid-row: 13/15;
 }
 #Gather{
-    grid-column: 2/3;
-    grid-row: 16/19;
+    grid-column: 5/6;
+    grid-row: 13/15;
 }
 #Dipped{
     grid-column: 3/4;
-    grid-row: 16/19;
+    grid-row: 13/15;
 }
 #Sayl{
-    grid-column: 1/2;
-    grid-row: 20/23;
+    grid-column: 2/3;
+    grid-row: 18/20;
 }
 #Cherry{
-    grid-column: 2/3;
-    grid-row: 20/23;
+    grid-column: 5/6;
+    grid-row: 18/20;
 }
 #Japan{
     grid-column: 3/4;
-    grid-row: 20/23;
+    grid-row: 18/20;
 }
 #Arigato{
-    grid-column: 2/4;
-    grid-row: 25/27;
+    grid-column: 4/5;
+    grid-row: 13/15;
 }
 #Winston{
-    grid-column: 1/2;
-    grid-row: 28/31;
+    grid-column: 4/5;
+    grid-row: 18/20;
 }
 #Letter{
     grid-column: 2/3;
-    grid-row: 28/31;
+    grid-row: 23/25;
 }
 #Coffee{
     grid-column: 3/4;
-    grid-row: 28/31;
+    grid-row: 23/25;
 }
 #Beoplay{
-    grid-column: 1/2;
-    grid-row: 32/35;
+    grid-column: 4/5;
+    grid-row: 23/25;
 }
 #Burrill{
     grid-column: 2/3;
-    grid-row: 32/35;
+    grid-row: 28/30;
 }
 #Chair{
-    grid-column: 3/4;
-    grid-row: 32/35;
+    grid-column: 5/6;
+    grid-row: 23/25;
 }
 #Simplicity{
-    grid-column: 2/4;
-    grid-row: 37/39;
+    grid-column: 4/5;
+    grid-row: 28/30;
 }
 #Grid{
-    grid-column: 1/2 ;
-    grid-row: 40/43;
+    grid-column: 3/4 ;
+    grid-row: 28/30;
 }
 #Card{
-    grid-column: 2/3;
-    grid-row: 40/43;
+    grid-column: 5/6;
+    grid-row: 28/30;
 }
 #Classic{
     grid-column: 3/4;
-    grid-row: 40/43;
+    grid-row: 33/36;
 }
 #Magic{
-    grid-column: 1/2;
-    grid-row: 44/47;
+    grid-column: 2/3;
+    grid-row: 33/36;
 }
 #Travel{
-    grid-column: 2/3;
-    grid-row: 44/47;
+    grid-column: 4/5;
+    grid-row: 33/36;
 }
 #Keyboard{
-    grid-column: 3/4;
-    grid-row: 44/47;
+    grid-column: 5/6;
+    grid-row: 33/36;
 }
 #Bottle{
-    grid-column: 2/4;
-    grid-row:49/51;
+    grid-column: 4/5;
+    grid-row:3/7;
 }
 #Geo{
-    grid-column: 1/2;
-    grid-row: 52/55;
+    grid-column: 2/3;
+    grid-row:38/41;
 }
 #Womb{
-    grid-column: 2/3;
-    grid-row: 52/55;
+    grid-column: 5/6;
+    grid-row:38/41;
 }
 #Water{
     grid-column: 3/4;
-    grid-row: 52/55;
+    grid-row:38/41;
 }
